@@ -2,7 +2,7 @@
 
 This project is a personal data analysis initiative focused on the **Abu Dhabi Combat Club (ADCC)**, the most prestigious submission grappling tournament in the world. Using Python and various data visualization libraries, I explored patterns in victories, submissions, and athlete performances to better understand the dynamics of high-level no-gi Brazilian Jiu-Jitsu (BJJ) competitions.
 
----
+
 
 ## Purpose
 
@@ -13,7 +13,7 @@ As a **BJJ practitioner since 2021** and a current **blue belt**, I’ve always 
 - Explore patterns related to gender and weight divisions
 - Improve my data analysis, visualization, and storytelling skills
 
----
+
 
 ## Tools & Technologies
 
@@ -21,7 +21,6 @@ As a **BJJ practitioner since 2021** and a current **blue belt**, I’ve always 
 - **Pandas** & **NumPy** for data manipulation
 - **Matplotlib** & **Seaborn** for data visualization
 
----
 
 ## Project Structure
 
@@ -29,7 +28,7 @@ As a **BJJ practitioner since 2021** and a current **blue belt**, I’ve always 
 - Cleaned dataset loaded from a CSV file with match-level information
 - Visualizations for win types, top submissions, stage breakdowns, and athlete performance
 
----
+
 
 ## Sample Insights
 
@@ -38,13 +37,12 @@ As a **BJJ practitioner since 2021** and a current **blue belt**, I’ve always 
 - Top 10 male and female athletes in finals and superfights
 - Year-by-year breakdown of athlete victories (M/F)
 
----
+
 
 ## Why This Project Matters
 
 This project reflects my ability to **communicate insights clearly**, work with **real-world sports data**, and build visual stories using Python. It also highlights how I bring **domain expertise** into the data analysis process — in this case, from my own Jiu-Jitsu journey.
 
----
 
 ## Let's Connect
 
