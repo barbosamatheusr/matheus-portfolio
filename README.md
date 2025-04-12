@@ -1,12 +1,12 @@
 Data projects portfolio
 
-# 📁 Matheus' Data & Visualization Portfolio
+# Matheus' Data & Visualization Portfolio
 
 Welcome to my portfolio! Here you’ll find a selection of my work combining data analysis, visual storytelling and research.
 
 ---
 
-## 🔍 Projects
+## Projects
 
 ### [BJJ Analytics]
 Data analysis and visualizations of professional Brazilian Jiu-Jitsu: win types, submissions, and top-performing athletes in finals and superfights.
