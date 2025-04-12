@@ -4,7 +4,7 @@ This project is a personal data analysis initiative focused on the **Abu Dhabi C
 
 
 
-## Purpose
+ Purpose
 
 As a **BJJ practitioner since 2021** and a current **blue belt**, I’ve always been fascinated by the strategies and outcomes in competitive grappling. This project is the result of combining my passion for Jiu-Jitsu with my growing interest in **data analytics**. Through this analysis, I aim to:
 
