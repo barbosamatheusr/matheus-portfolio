@@ -24,7 +24,7 @@ As a **BJJ practitioner since 2021** and a current **blue belt**, I’ve always 
 
 ## Project Structure
 
-- `ADCC_BJJ.ipynb` — the main notebook with all the analyses and charts
+- [ADCC_BJJ.ipynb](https://github.com/barbosamatheusr/matheus-portfolio/blob/bjj-analytics/ADCC_BJJ.ipynb) — the main notebook with all the analyses and charts
 - Cleaned dataset loaded from a CSV file with match-level information
 - Visualizations for win types, top submissions, stage breakdowns, and athlete performance
 
