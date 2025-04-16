@@ -32,7 +32,7 @@ It contains institutional-level data, including fields like academic organizatio
 
 
 ## Project Structure
-- — the main notebook with all the analyses and charts
+- [DA_IES.ipynb](https://github.com/barbosamatheusr/matheus-portfolio/blob/ies--analysis/DA_IES.ipynb) — the main notebook with all the analyses and charts
 - Cleaned and analyzed dataset based on active institutions only
 - Separated visualizations for private vs. public institutions, and by state
 - Category-type breakdown for Confessional, Community-based, and Philanthropic institutions
