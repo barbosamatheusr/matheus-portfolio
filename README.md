@@ -15,4 +15,7 @@ Data analysis and visualizations of professional Brazilian Jiu-Jitsu: win types,
 
 ---
 
+### [Higher Education in Brazil — Data Exploration](https://github.com/barbosamatheusr/matheus-portfolio/blob/ies--analysis/DA_IES.ipynb)
+Exploratory data analysis of Brazilian higher education institutions using official data from the Ministry of Education (MEC). 
+
 More projects coming soon!
