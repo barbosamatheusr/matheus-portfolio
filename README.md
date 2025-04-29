@@ -8,7 +8,7 @@ Welcome to my portfolio! Here you’ll find a selection of my work combining dat
 
 ---
 
-### [Higher Education in Brazil — Data Exploration](https://github.com/barbosamatheusr/matheus-portfolio/blob/ies--analysis/DA_IES.ipynb)
+### [Higher Education in Brazil - Data Exploration](https://github.com/barbosamatheusr/matheus-portfolio/blob/ies--analysis/DA_IES.ipynb)
 Exploratory data analysis of Brazilian higher education institutions using official data from the Ministry of Education (MEC). 
 
 ---
